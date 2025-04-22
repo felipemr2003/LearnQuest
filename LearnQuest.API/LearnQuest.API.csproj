@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentNHibernate" Version="3.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.1" />
+    <PackageReference Include="Mysql.data" Version="9.3.0" />
+    <PackageReference Include="NHibernate" Version="5.5.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LearnQuest.Dominio\LearnQuest.Dominio.csproj" />
+    <ProjectReference Include="..\LearnQuest.Infra\LearnQuest.Infra.csproj" />
+    <ProjectReference Include="..\LearnQuest.DataTransfer\LearnQuest.DataTransfer.csproj" />
+    <ProjectReference Include="..\LearnQuest.Aplicacao\LearnQuest.Aplicacao.csproj" />
+  </ItemGroup>
+
+</Project>

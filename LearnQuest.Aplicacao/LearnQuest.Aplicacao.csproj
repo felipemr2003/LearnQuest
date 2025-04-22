@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\LearnQuest.Dominio\LearnQuest.Dominio.csproj" />
+    <ProjectReference Include="..\LearnQuest.Infra\LearnQuest.Infra.csproj" />
+    <ProjectReference Include="..\LearnQuest.DataTransfer\LearnQuest.DataTransfer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentNHibernate" Version="3.4.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

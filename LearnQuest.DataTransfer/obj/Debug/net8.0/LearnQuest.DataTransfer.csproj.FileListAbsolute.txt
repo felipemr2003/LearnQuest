@@ -1,0 +1,11 @@
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\bin\Debug\net8.0\LearnQuest.DataTransfer.deps.json
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\bin\Debug\net8.0\LearnQuest.DataTransfer.dll
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\bin\Debug\net8.0\LearnQuest.DataTransfer.pdb
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.AssemblyInfo.cs
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.dll
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\refint\LearnQuest.DataTransfer.dll
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.pdb
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\ref\LearnQuest.DataTransfer.dll

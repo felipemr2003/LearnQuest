@@ -1,0 +1,11 @@
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\obj\Debug\net8.0\LearnQuest.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\obj\Debug\net8.0\LearnQuest.Dominio.AssemblyInfoInputs.cache
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\obj\Debug\net8.0\LearnQuest.Dominio.AssemblyInfo.cs
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\obj\Debug\net8.0\LearnQuest.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\bin\Debug\net8.0\LearnQuest.Dominio.deps.json
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\bin\Debug\net8.0\LearnQuest.Dominio.dll
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\bin\Debug\net8.0\LearnQuest.Dominio.pdb
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\obj\Debug\net8.0\LearnQuest.Dominio.dll
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\obj\Debug\net8.0\refint\LearnQuest.Dominio.dll
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\obj\Debug\net8.0\LearnQuest.Dominio.pdb
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Dominio\obj\Debug\net8.0\ref\LearnQuest.Dominio.dll
