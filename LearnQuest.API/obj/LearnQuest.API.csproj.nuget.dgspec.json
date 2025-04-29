@@ -55,25 +55,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "FluentNHibernate": {
+            "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
-              "version": "[3.4.1, )"
+              "version": "[8.0.4, )"
             },
-            "Microsoft.AspNetCore.OpenApi": {
+            "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[8.0.1, )"
-            },
-            "Mysql.data": {
-              "target": "Package",
-              "version": "[9.3.0, )"
-            },
-            "NHibernate": {
-              "target": "Package",
-              "version": "[5.5.2, )"
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -147,6 +139,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "FluentNHibernate": {
               "target": "Package",
               "version": "[3.4.1, )"
@@ -266,6 +262,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -328,9 +330,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "FluentNHibernate": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.4.1, )"
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "System.Linq.Dynamic.Core": {
               "target": "Package",

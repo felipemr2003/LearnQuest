@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnQuest.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1c526ee68e1f68a18583b9438d085b2c08bca76")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnQuest.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnQuest.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
