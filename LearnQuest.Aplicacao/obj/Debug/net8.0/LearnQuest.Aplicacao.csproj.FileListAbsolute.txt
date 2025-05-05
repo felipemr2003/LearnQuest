@@ -12,6 +12,7 @@ C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Aplicacao\obj\Debug\net8.0
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Aplicacao\obj\Debug\net8.0\LearnQuest.Aplicacao.AssemblyInfoInputs.cache
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Aplicacao\obj\Debug\net8.0\LearnQuest.Aplicacao.AssemblyInfo.cs
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Aplicacao\obj\Debug\net8.0\LearnQuest.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Aplicacao\obj\Debug\net8.0\LearnQuest.Aplicacao.sourcelink.json
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Aplicacao\obj\Debug\net8.0\LearnQuest.Aplicacao.csproj.CopyComplete
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Aplicacao\obj\Debug\net8.0\LearnQuest.Aplicacao.dll
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.Aplicacao\obj\Debug\net8.0\refint\LearnQuest.Aplicacao.dll

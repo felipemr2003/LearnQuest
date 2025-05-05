@@ -28,9 +28,9 @@ namespace LearnQuest.API.Controllers.Teachers
         }
 
         [HttpGet]
-        public async Task<IActionResult> ListarAsync()
+        public async Task<IActionResult> ListarAsync([FromQuery] TeacherListarRequest request)
         {
-            var response = await teacherAppServico.ListarVinculosAsync();
+            var response = await teacherAppServico.ListarAsync(request);
             return Ok(response);
         }
 

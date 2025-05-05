@@ -28,5 +28,12 @@ namespace LearnQuest.API.Controllers.Class
             var response = await classAppServico.InserirAsync(request);
             return Ok(response);
         }
+
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<ClasseResponse>>> ListarAsync([FromQuery] ClasseListarRequest request)
+        {
+            var response = await classAppServico.ListarAsync(request);
+            return Ok(response);
+        }
     }
 }

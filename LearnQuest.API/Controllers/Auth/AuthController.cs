@@ -1,13 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 using LearnQuest.Aplicacao.Auth.Servicos.Interfaces;
 using LearnQuest.DataTransfer.Auth.Request;
 using LearnQuest.DataTransfer.Auth.Response;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace LearnQuest.API.Controllers.Auth
 {
@@ -35,5 +29,6 @@ namespace LearnQuest.API.Controllers.Auth
             var response = await authAppServico.LoginAsync(request);
             return Ok(response);
         }
+
     }
 }

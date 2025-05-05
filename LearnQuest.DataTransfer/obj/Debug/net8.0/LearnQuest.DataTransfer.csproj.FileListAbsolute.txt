@@ -5,6 +5,7 @@ C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.AssemblyInfoInputs.cache
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.AssemblyInfo.cs
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.sourcelink.json
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.dll
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\refint\LearnQuest.DataTransfer.dll
 C:\Users\felipe.rueda\Documents\LearnQuest\LearnQuest.DataTransfer\obj\Debug\net8.0\LearnQuest.DataTransfer.pdb
