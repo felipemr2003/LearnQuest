@@ -35,5 +35,12 @@ namespace LearnQuest.API.Controllers.Class
             var response = await classAppServico.ListarAsync(request);
             return Ok(response);
         }
+
+        [HttpGet("teacher/{teacherId}/students")]
+        public async Task<ActionResult<IEnumerable<ClasseWithStudentsResponse>>> ListarComAlunosPorProfessorAsync(int teacherId)
+        {
+            var response = await classAppServico.ListarComAlunosPorProfessorAsync(teacherId);
+            return Ok(response);
+        }
     }
 }
